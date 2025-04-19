@@ -1,5 +1,4 @@
 
-
 # Personal Health Record (PHR) App
 
 A web application built with **Spring Boot** for managing personal health records, insurance details, and telemedicine appointments. It supports different roles including Users, Admins, and Healthcare Providers.
@@ -37,3 +36,5 @@ The app will be available at `http://localhost:8080`.
 ## License
 MIT License.
 
+# Personal-Health-Record-System
+The Personal Health Record (PHR) System serves individuals, healthcare providers, and administrators by centralizing medical records, appointment scheduling, and health monitoring. It enables secure telemedicine consultations, insurance tracking, and personalized health insights, empowering users to manage their healthcare efficiently.
